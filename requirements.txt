@@ -1,0 +1,13 @@
+biopython
+faiss-cpu
+feedparser
+google-generativeai
+langchain
+langchain-community
+ollama
+pdfplumber
+PyPDF2
+requests
+streamlit
+torch
+transformers

@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.venv/
+venv/
+
+# Node
+node_modules/
+
+# Streamlit
+.streamlit/
+
+# Local data and artifacts
+data/
+figures/
+logs/
+llama-fine-tuned/
+llama2-fine-tuned/
+*.pdf
+garv_ai.py
+
+# Environment files
+.env
+.env.*
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
